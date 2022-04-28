@@ -1,0 +1,58 @@
+docker run --rm \
+    --name sonarr \
+    -p 8989:8989 \
+    -e PUID=1000 \
+    -e PGID=1000 \
+    -e UMASK=002 \
+    -e TZ="Etc/NZST" \
+    -v /mnt/c/dev/servarr/sonarr/config:/config \
+    -v /mnt/x:/data \
+    cr.hotio.dev/hotio/sonarr
+
+# radarr
+
+docker run --rm \
+    --name radarr \
+    -p 7878:7878 \
+    -e PUID=1000 \
+    -e PGID=1000 \
+    -e UMASK=002 \
+    -e TZ="Etc/NZST" \
+    -v /mnt/c/dev/servarr/radarr/config:/config \
+    -v /mnt/x:/data \
+    cr.hotio.dev/hotio/radarr
+
+
+# qbittorrent
+docker run --rm \
+    --name qbittorrent \
+    -p 8080:8080 \
+    -e PUID=1000 \
+    -e PGID=1000 \
+    -e UMASK=002 \
+    -e TZ="Etc/NZST" \
+    -v /mnt/c/dev/servarr/qbittorrent/config:/config \
+    -v /mnt/x:/data \
+    cr.hotio.dev/hotio/qbittorrent
+
+# prowlarr
+docker run --rm \
+    --name prowlarr \
+    -p 9696:9696 \
+    -e PUID=1000 \
+    -e PGID=1000 \
+    -e UMASK=002 \
+    -e TZ="Etc/NZST" \
+    -v /mnt/c/dev/servarr/prowlarr:/config \
+    hotio/prowlarr:testing
+
+# trackarr
+docker run --rm \
+    --name trackarr \
+    -p 7337:7337 \
+    -e PUID=1000 \
+    -e PGID=1000 \
+    -e UMASK=002 \
+    -e TZ="Etc/NZST" \
+    -v /mnt/c/dev/trackarr:/config \
+    cr.hotio.dev/hotio/trackarr
