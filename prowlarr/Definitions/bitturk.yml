@@ -53,8 +53,14 @@ caps:
     - {id: 46, cat: Audio, desc: "Yab@ncı MüziK"}
     - {id: 21, cat: Audio/Video, desc: "Video Klipler"}
     - {id: 2, cat: Console, desc: "Oyun"}
-    - {id: 74, cat: PC/Games, desc: "PC"}
-    - {id: 73, cat: Console, desc: "SONY-PS"}
+    - {id: 74, cat: PC/Games, desc: "Oyun PC"}
+    - {id: 84, cat: Console/PS3, desc: "Oyun Playstation"}
+    - {id: 85, cat: Console/PS3, desc: "Oyun Playstation 2"}
+    - {id: 82, cat: Console/PSP, desc: " Oyun PSP"}
+    - {id: 83, cat: Console/Other, desc: "Oyun Gameboy"}
+    - {id: 87, cat: Console/XBox, desc: "Oyun XBOX"}
+    - {id: 88, cat: Console/Other, desc: "Oyun NEO-GEO"}
+    - {id: 89, cat: Console/Wii, desc: "Oyun Nintendo Wii"}
     - {id: 6, cat: PC/0day, desc: "Program"}
     - {id: 47, cat: Other, desc: "Resimler"}
     - {id: 48, cat: TV, desc: "Televizyon"}
@@ -181,8 +187,6 @@ search:
       filters:
         - name: regexp
           args: "Uploaded (.+?) by"
-        - name: replace
-          args: [" at ", " "]
         - name: fuzzytime
     date_unix:
       # within the hour (unix)

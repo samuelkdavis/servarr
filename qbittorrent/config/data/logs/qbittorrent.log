@@ -1,550 +1,354 @@
-(N) 2022-04-25T07:09:38 - qBittorrent v4.4.2 started
-(N) 2022-04-25T07:09:38 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T07:09:38 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T07:09:38 - Peer ID: -qB4420-
-(N) 2022-04-25T07:09:38 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T07:09:38 - DHT support [ON]
-(I) 2022-04-25T07:09:38 - Local Peer Discovery support [ON]
-(I) 2022-04-25T07:09:38 - PeX support [ON]
-(I) 2022-04-25T07:09:38 - Anonymous mode [OFF]
-(I) 2022-04-25T07:09:38 - Encryption support [ON]
-(I) 2022-04-25T07:09:38 - UPnP / NAT-PMP support [ON]
-(W) 2022-04-25T07:09:38 - Couldn't load IP geolocation database. Reason: No such file or directory
-(N) 2022-04-25T07:09:38 - Using built-in Web UI.
-(W) 2022-04-25T07:09:38 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T07:09:38 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:09:38 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T07:09:38 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T07:09:38 - Successfully listening on IP: 172.17.0.2, port: TCP/13477
-(I) 2022-04-25T07:09:38 - Successfully listening on IP: 172.17.0.2, port: UDP/13477
-(I) 2022-04-25T07:09:38 - Detected external IP: 219.88.232.215
-(I) 2022-04-25T07:09:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(I) 2022-04-25T07:09:38 - Successfully updated IP geolocation database.
-(N) 2022-04-25T07:10:18 - WebAPI login success. IP: ::ffff:172.17.0.1
-(C) 2022-04-25T07:12:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T07:12:14 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T07:20:03 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T07:20:03 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T07:20:15 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T07:20:36 - qBittorrent v4.4.2 started
-(N) 2022-04-25T07:20:36 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T07:20:36 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T07:20:36 - Peer ID: -qB4420-
-(N) 2022-04-25T07:20:36 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T07:20:36 - DHT support [ON]
-(I) 2022-04-25T07:20:36 - Local Peer Discovery support [ON]
-(I) 2022-04-25T07:20:36 - PeX support [ON]
-(I) 2022-04-25T07:20:36 - Anonymous mode [OFF]
-(I) 2022-04-25T07:20:36 - Encryption support [ON]
-(I) 2022-04-25T07:20:36 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T07:20:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T07:20:36 - Using built-in Web UI.
-(W) 2022-04-25T07:20:36 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T07:20:36 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:20:36 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T07:20:36 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T07:20:36 - Successfully listening on IP: 172.17.0.2, port: TCP/13477
-(I) 2022-04-25T07:20:36 - Successfully listening on IP: 172.17.0.2, port: UDP/13477
-(N) 2022-04-25T07:20:36 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T07:20:36 - Detected external IP: 219.88.232.215
-(I) 2022-04-25T07:21:06 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T07:21:12 - qBittorrent v4.4.2 started
-(N) 2022-04-25T07:21:12 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T07:21:12 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T07:21:12 - Peer ID: -qB4420-
-(N) 2022-04-25T07:21:12 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T07:21:12 - DHT support [ON]
-(I) 2022-04-25T07:21:12 - Local Peer Discovery support [ON]
-(I) 2022-04-25T07:21:12 - PeX support [ON]
-(I) 2022-04-25T07:21:12 - Anonymous mode [OFF]
-(I) 2022-04-25T07:21:12 - Encryption support [ON]
-(I) 2022-04-25T07:21:12 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T07:21:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T07:21:12 - Using built-in Web UI.
-(W) 2022-04-25T07:21:12 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T07:21:12 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:21:12 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T07:21:12 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T07:21:12 - Successfully listening on IP: 172.17.0.2, port: TCP/13477
-(I) 2022-04-25T07:21:12 - Successfully listening on IP: 172.17.0.2, port: UDP/13477
-(N) 2022-04-25T07:21:12 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T07:21:12 - Detected external IP: 219.88.232.215
-(N) 2022-04-25T07:21:19 - WebAPI login success. IP: ::ffff:172.17.0.1
-(N) 2022-04-25T07:22:55 - Web UI: Now listening on IP: *, port: 8080
-(C) 2022-04-25T07:23:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T07:23:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T07:23:55 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T07:25:52 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:25:59 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T07:32:31 - qBittorrent v4.4.2 started
-(N) 2022-04-25T07:32:31 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T07:32:31 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T07:32:31 - Peer ID: -qB4420-
-(N) 2022-04-25T07:32:31 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T07:32:31 - DHT support [ON]
-(I) 2022-04-25T07:32:31 - Local Peer Discovery support [ON]
-(I) 2022-04-25T07:32:31 - PeX support [ON]
-(I) 2022-04-25T07:32:31 - Anonymous mode [OFF]
-(I) 2022-04-25T07:32:31 - Encryption support [ON]
-(I) 2022-04-25T07:32:31 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T07:32:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T07:32:31 - Using built-in Web UI.
-(W) 2022-04-25T07:32:31 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T07:32:31 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:32:31 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T07:32:31 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T07:32:31 - Successfully listening on IP: 172.18.0.5, port: TCP/13477
-(I) 2022-04-25T07:32:31 - Successfully listening on IP: 172.18.0.5, port: UDP/13477
-(N) 2022-04-25T07:32:31 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T07:32:31 - Detected external IP: 219.88.232.215
-(N) 2022-04-25T07:32:59 - WebAPI login success. IP: ::ffff:172.18.0.1
-(C) 2022-04-25T07:35:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T07:35:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(I) 2022-04-25T07:40:12 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T07:40:20 - qBittorrent v4.4.2 started
-(N) 2022-04-25T07:40:20 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T07:40:20 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T07:40:20 - Peer ID: -qB4420-
-(N) 2022-04-25T07:40:20 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T07:40:20 - DHT support [ON]
-(I) 2022-04-25T07:40:20 - Local Peer Discovery support [ON]
-(I) 2022-04-25T07:40:20 - PeX support [ON]
-(I) 2022-04-25T07:40:20 - Anonymous mode [OFF]
-(I) 2022-04-25T07:40:20 - Encryption support [ON]
-(I) 2022-04-25T07:40:20 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T07:40:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T07:40:20 - Using built-in Web UI.
-(W) 2022-04-25T07:40:20 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T07:40:20 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T07:40:20 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T07:40:20 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T07:40:20 - Successfully listening on IP: 172.18.0.3, port: TCP/13477
-(I) 2022-04-25T07:40:20 - Successfully listening on IP: 172.18.0.3, port: UDP/13477
-(N) 2022-04-25T07:40:20 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T07:40:20 - Detected external IP: 219.88.232.215
-(C) 2022-04-25T07:42:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T07:42:56 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T07:51:50 - WebAPI login success. IP: ::ffff:172.18.0.2
-(N) 2022-04-25T07:52:44 - WebAPI login success. IP: ::ffff:172.18.0.4
-(N) 2022-04-25T07:53:08 - WebAPI login success. IP: ::ffff:172.18.0.1
-(N) 2022-04-25T07:53:47 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T07:54:31 - WebAPI login success. IP: ::ffff:172.18.0.5
-(N) 2022-04-25T07:56:55 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T07:57:15 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T07:58:42 - 'Moon.Knight.S01E04.1080p.WEB-DL.x264.[ExYuSubs]' added to download list.
-(N) 2022-04-25T08:03:27 - 'Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]' added to download list.
-(N) 2022-04-25T08:03:45 - 'Moon.Knight.S01E04.1080p.WEB-DL.x264.[ExYuSubs]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T08:16:24 - Enqueued to move "Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T08:16:24 - Moving "Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T08:19:56 - "Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T08:33:40 - 'Uncharted (2022) [1080p] [BluRay] [5.1] [YTS.MX]' added to download list.
-(I) 2022-04-25T08:43:46 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T08:48:12 - qBittorrent v4.4.2 started
-(N) 2022-04-25T08:48:12 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T08:48:12 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T08:48:13 - Peer ID: -qB4420-
-(N) 2022-04-25T08:48:13 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T08:48:13 - DHT support [ON]
-(I) 2022-04-25T08:48:13 - Local Peer Discovery support [ON]
-(I) 2022-04-25T08:48:13 - PeX support [ON]
-(I) 2022-04-25T08:48:13 - Anonymous mode [OFF]
-(I) 2022-04-25T08:48:13 - Encryption support [ON]
-(I) 2022-04-25T08:48:13 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T08:48:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T08:48:13 - Using built-in Web UI.
-(W) 2022-04-25T08:48:13 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T08:48:13 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T08:48:13 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T08:48:13 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T08:48:13 - Successfully listening on IP: 172.18.0.4, port: TCP/13477
-(I) 2022-04-25T08:48:13 - Successfully listening on IP: 172.18.0.4, port: UDP/13477
-(N) 2022-04-25T08:48:13 - 'Uncharted (2022) [1080p] [BluRay] [5.1] [YTS.MX]' restored.
-(N) 2022-04-25T08:48:13 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(N) 2022-04-25T08:48:13 - 'Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]' restored.
-(I) 2022-04-25T08:48:13 - Detected external IP: 219.88.232.215
-(N) 2022-04-25T08:48:17 - WebAPI login success. IP: ::ffff:172.18.0.5
-(N) 2022-04-25T08:48:19 - WebAPI login success. IP: ::ffff:172.18.0.2
-(N) 2022-04-25T08:48:24 - WebAPI login success. IP: ::ffff:172.18.0.1
-(N) 2022-04-25T08:48:49 - 'Uncharted (2022) [1080p] [BluRay] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T08:48:49 - 'Moon.Knight.S01E04.1080p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T08:49:25 - 'The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]' added to download list.
-(N) 2022-04-25T08:50:13 - 'Outer.Range.S01E03.1080p.WEB.H264-GLHF[rartv]' added to download list.
-(N) 2022-04-25T08:50:15 - 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]' added to download list.
-(N) 2022-04-25T08:50:45 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' added to download list.
-(C) 2022-04-25T08:50:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T08:50:49 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T08:51:09 - 'Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' added to download list.
-(N) 2022-04-25T08:51:45 - 'Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' added to download list.
-(N) 2022-04-25T08:55:27 - Enqueued to move "The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T08:55:27 - Moving "The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T08:57:41 - "The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T08:57:47 - Enqueued to move "Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T08:57:47 - Moving "Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:00:28 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T09:00:37 - 'The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]' reached the maximum ratio you set. Removed.
-(N) 2022-04-25T09:00:37 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Removed.
-(N) 2022-04-25T09:00:37 - 'The.Neighborhood.S04E18.720p.HDTV.x264-SYNCOPY[rarbg]' was removed from the transfer list.
-(N) 2022-04-25T09:00:52 - WebAPI login success. IP: ::ffff:172.18.0.3
-(N) 2022-04-25T09:01:36 - Enqueued to move "Outer.Range.S01E03.1080p.WEB.H264-GLHF[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:01:37 - Enqueued to move "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:01:37 - 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]' reached the maximum ratio you set. Removed.
-(N) 2022-04-25T09:01:37 - 'Outer.Range.S01E03.1080p.WEB.H264-GLHF[rartv]' reached the maximum ratio you set. Removed.
-(N) 2022-04-25T09:01:53 - "326560b9689f1e5f986642372475cd218274f0ee" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:01:53 - Moving "b8f2400e81048a0ec30935b7c44afe706b6aba60" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:01:53 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' was removed from the transfer list.
-(N) 2022-04-25T09:01:57 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T09:02:57 - Enqueued to move "Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:02:57 - 'Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T09:03:58 - Enqueued to move "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:05:28 - qBittorrent v4.4.2 started
-(N) 2022-04-25T09:05:28 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T09:05:28 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T09:05:28 - Peer ID: -qB4420-
-(N) 2022-04-25T09:05:28 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T09:05:28 - DHT support [ON]
-(I) 2022-04-25T09:05:28 - Local Peer Discovery support [ON]
-(I) 2022-04-25T09:05:28 - PeX support [ON]
-(I) 2022-04-25T09:05:28 - Anonymous mode [OFF]
-(I) 2022-04-25T09:05:28 - Encryption support [ON]
-(I) 2022-04-25T09:05:28 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T09:05:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T09:05:28 - Using built-in Web UI.
-(W) 2022-04-25T09:05:28 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T09:05:28 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T09:05:28 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T09:05:28 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T09:05:28 - Successfully listening on IP: 172.18.0.2, port: TCP/13477
-(I) 2022-04-25T09:05:28 - Successfully listening on IP: 172.18.0.2, port: UDP/13477
-(N) 2022-04-25T09:05:28 - 'Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' restored.
-(N) 2022-04-25T09:05:28 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(N) 2022-04-25T09:05:28 - 'Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' restored.
-(I) 2022-04-25T09:05:28 - Detected external IP: 219.88.232.215
-(N) 2022-04-25T09:05:28 - Enqueued to move "Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:05:28 - Moving "Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:05:34 - Enqueued to move "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:05:34 - Cancelled moving "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:05:35 - Enqueued to move "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:05:35 - WebAPI login success. IP: ::ffff:172.18.0.4
-(N) 2022-04-25T09:05:38 - 'Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T09:05:40 - WebAPI login success. IP: ::ffff:172.18.0.5
-(N) 2022-04-25T09:05:42 - WebAPI login success. IP: ::ffff:172.18.0.1
-(N) 2022-04-25T09:06:42 - 'Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]' added to download list.
-(N) 2022-04-25T09:06:47 - "Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:06:47 - Moving "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:07:34 - 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]' added to download list.
-(N) 2022-04-25T09:07:56 - Enqueued to move "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:07:56 - Cancelled moving "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:07:56 - Enqueued to move "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:07:58 - 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]' reached the maximum ratio you set. Paused.
-(C) 2022-04-25T09:08:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T09:08:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T09:08:18 - Tracker 'udp://9.rarbg.me:2740' was added to torrent 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]'
-(N) 2022-04-25T09:08:18 - Tracker 'udp://9.rarbg.to:2730' was added to torrent 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]'
-(N) 2022-04-25T09:08:18 - Tracker 'udp://tracker.tallpenguin.org:15760' was added to torrent 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]'
-(N) 2022-04-25T09:08:18 - Tracker 'udp://tracker.slowcheetah.org:14740' was added to torrent 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]'
-(N) 2022-04-25T09:08:19 - 'Billy.The.Kid.S01E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T09:08:48 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' added to download list.
-(N) 2022-04-25T09:08:54 - "Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:08:54 - Moving "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:10:10 - 'Outer.Range.S01E04.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T09:12:35 - "New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:12:58 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T09:13:11 - 'New.Amsterdam.2018.S04E16.All.Night.Long.720p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T09:13:15 - 'Young.Justice.S04E19.720p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T09:17:03 - 'Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' added to download list.
-(N) 2022-04-25T09:23:27 - Enqueued to move "Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:23:27 - Moving "Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:23:28 - 'Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T09:29:05 - Enqueued to move "Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:29:08 - 'Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T09:32:05 - "Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:32:05 - Moving "Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:33:05 - 'Outer.Range.S01E03.1080p.WEB.H264-GLHF[TGx]' was removed from the transfer list and hard disk.
-(I) 2022-04-25T09:34:56 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-25T09:39:32 - qBittorrent v4.4.2 started
-(N) 2022-04-25T09:39:32 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-25T09:39:32 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-25T09:39:32 - Peer ID: -qB4420-
-(N) 2022-04-25T09:39:32 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-25T09:39:32 - DHT support [ON]
-(I) 2022-04-25T09:39:32 - Local Peer Discovery support [ON]
-(I) 2022-04-25T09:39:32 - PeX support [ON]
-(I) 2022-04-25T09:39:32 - Anonymous mode [OFF]
-(I) 2022-04-25T09:39:32 - Encryption support [ON]
-(I) 2022-04-25T09:39:32 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-25T09:39:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-25T09:39:33 - Using built-in Web UI.
-(W) 2022-04-25T09:39:33 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-25T09:39:33 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-25T09:39:33 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-25T09:39:33 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-25T09:39:33 - Successfully listening on IP: 172.18.0.4, port: TCP/13477
-(I) 2022-04-25T09:39:33 - Successfully listening on IP: 172.18.0.4, port: UDP/13477
-(N) 2022-04-25T09:39:33 - 'Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' restored.
-(N) 2022-04-25T09:39:33 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-25T09:39:33 - Detected external IP: 219.88.232.215
-(N) 2022-04-25T09:39:33 - Enqueued to move "Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:39:33 - Moving "Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:39:39 - WebAPI login success. IP: ::ffff:172.18.0.3
-(C) 2022-04-25T09:42:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-25T09:42:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-25T09:44:13 - "Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T09:45:31 - WebAPI login success. IP: ::ffff:172.18.0.2
-(N) 2022-04-25T09:46:59 - 'Uncharted (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T09:54:08 - WebAPI login success. IP: ::ffff:172.18.0.1
-(N) 2022-04-25T09:56:41 - 'Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' added to download list.
-(N) 2022-04-25T09:57:31 - 'Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]' added to download list.
-(N) 2022-04-25T09:59:07 - Enqueued to move "Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T09:59:07 - Moving "Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T09:59:12 - 'Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T10:01:40 - "Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T10:02:44 - Enqueued to move "Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T10:02:44 - Moving "Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T10:02:52 - 'Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T10:03:10 - 'Better.Call.Saul.S06E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T10:07:55 - "Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T10:09:10 - 'Better.Call.Saul.S06E02.Carrot.And.Stick.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:25:35 - 'South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]' added to download list.
-(N) 2022-04-25T11:26:23 - 'South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]' added to download list.
-(N) 2022-04-25T11:26:58 - 'South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]' added to download list.
-(N) 2022-04-25T11:27:31 - 'South.Park.S25E03.1080p.WEB.h264-BAE.mkv' added to download list.
-(N) 2022-04-25T11:27:57 - Enqueued to move "South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:27:58 - Moving "South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:28:02 - 'South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:28:03 - 'South.Park.S25E04.1080p.WEB.h264-BAE[rartv]' added to download list.
-(N) 2022-04-25T11:28:45 - 'South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]' added to download list.
-(N) 2022-04-25T11:29:08 - 'South.Park.S25E06.1080p.WEB.h264-BAE[rartv]' added to download list.
-(N) 2022-04-25T11:30:44 - Enqueued to move "South.Park.S25E03.1080p.WEB.h264-BAE.mkv" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:30:52 - 'South.Park.S25E03.1080p.WEB.h264-BAE.mkv' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:30:56 - Enqueued to move "South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:31:02 - 'South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:32:47 - "South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:32:47 - Moving "South.Park.S25E03.1080p.WEB.h264-BAE.mkv" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:33:02 - Enqueued to move "South.Park.S25E06.1080p.WEB.h264-BAE[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:33:12 - 'South.Park.S25E06.1080p.WEB.h264-BAE[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:33:29 - Enqueued to move "South.Park.S25E04.1080p.WEB.h264-BAE[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:33:32 - 'South.Park.S25E04.1080p.WEB.h264-BAE[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:33:39 - Enqueued to move "South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:33:42 - 'South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:34:02 - "South.Park.S25E03.1080p.WEB.h264-BAE.mkv" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:34:02 - Moving "South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:34:14 - 'South.Park.S25E01.1080p.WEB.h264-BAE[rarbg]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:34:14 - 'South.Park.S25E03.1080p.WEB.h264-BAE.mkv' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:34:32 - Enqueued to move "South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T11:34:42 - 'South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T11:35:08 - "South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:35:08 - Moving "South.Park.S25E06.1080p.WEB.h264-BAE[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:35:44 - 'South.Park.S25E02.1080p.WEB.h264-BAE[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:36:05 - "South.Park.S25E06.1080p.WEB.h264-BAE[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:36:05 - Moving "South.Park.S25E04.1080p.WEB.h264-BAE[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:36:57 - "South.Park.S25E04.1080p.WEB.h264-BAE[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:36:57 - Moving "South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:37:15 - 'South.Park.S25E06.1080p.WEB.h264-BAE[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:37:15 - 'South.Park.S25E04.1080p.WEB.h264-BAE[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:38:18 - "South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:38:18 - Moving "South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T11:38:44 - 'South.Park.S25E05.1080p.PMTP.WEB-DL.DDP5.1.H.264-DKV[TGx]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:40:34 - "South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T11:41:47 - 'South.Park.S24E02.South.ParQ.Vaccination.Special.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[TGx]' was removed from the transfer list and hard disk.
-(N) 2022-04-25T11:46:07 - WebAPI login success. IP: ::ffff:172.18.0.5
-(N) 2022-04-25T11:46:07 - '[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' added to download list.
-(N) 2022-04-25T11:46:12 - '[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' added to download list.
-(N) 2022-04-25T11:46:19 - '[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' added to download list.
-(N) 2022-04-25T11:46:22 - '[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' added to download list.
-(N) 2022-04-25T11:46:38 - '[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:46:44 - '[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:46:55 - '[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:47:08 - '[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:47:15 - '[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:47:22 - '[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:47:24 - '[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' added to download list.
-(N) 2022-04-25T11:47:37 - '[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' added to download list.
-(N) 2022-04-25T11:48:22 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T11:49:25 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T11:52:59 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T11:53:00 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-25T12:30:40 - Enqueued to move "[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T12:30:40 - Moving "[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T12:30:42 - '[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T12:34:42 - Enqueued to move "[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T12:34:52 - '[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T12:38:08 - Enqueued to move "[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T12:38:12 - '[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T12:39:07 - Enqueued to move "[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T12:39:12 - '[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T13:10:26 - "[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T13:10:26 - Moving "[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T13:13:10 - Enqueued to move "[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T13:13:12 - '[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T13:21:42 - Enqueued to move "[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T13:21:52 - '[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T13:36:34 - Enqueued to move "[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T13:36:42 - '[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T13:51:24 - Enqueued to move "[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T13:51:32 - '[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T13:58:26 - Enqueued to move "[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T13:58:32 - '[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T14:02:14 - Enqueued to move "[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T14:02:22 - '[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T14:07:27 - Enqueued to move "[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T14:07:32 - '[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T14:11:54 - Enqueued to move "[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-25T14:12:02 - '[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' reached the maximum ratio you set. Paused.
-(N) 2022-04-25T14:14:10 - "[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T14:14:10 - Moving "[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T14:22:50 - "[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T14:22:50 - Moving "[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T14:36:58 - "[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T14:36:58 - Moving "[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T14:47:50 - "[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T14:47:50 - Moving "[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:01:20 - "[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:01:20 - Moving "[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:10:53 - "[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:10:53 - Moving "[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:22:07 - "[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:22:07 - Moving "[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:33:47 - "[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:33:47 - Moving "[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:45:13 - "[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:45:13 - Moving "[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" to "/data/Downloads/Complete"...
-(N) 2022-04-25T15:50:20 - "[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-25T15:50:20 - Moving "[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" to "/data/Downloads/Complete"...
-(N) 2022-04-25T16:01:19 - "[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-26T01:11:51 - 'Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]' added to download list.
-(N) 2022-04-26T01:26:49 - Enqueued to move "Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-26T01:26:49 - Moving "Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-26T01:26:52 - 'Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-26T01:28:07 - "Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-26T01:29:13 - 'Better.Call.Saul.S06E03.720p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-27T00:12:09 - 'New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]' added to download list.
-(N) 2022-04-27T00:16:11 - Enqueued to move "New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]" from "/app/qBittorrent/downloads/temp" to "/data/Downloads/Complete".
-(N) 2022-04-27T00:16:11 - Moving "New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]" to "/data/Downloads/Complete"...
-(N) 2022-04-27T00:16:12 - 'New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-27T00:16:47 - "New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]" is successfully moved to "/data/Downloads/Complete".
-(N) 2022-04-27T00:18:00 - 'New.Amsterdam.2018.S04E17.720p.HDTV.x264-SYNCOPY[rartv]' was removed from the transfer list and hard disk.
-(N) 2022-04-27T02:42:19 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-27T02:42:27 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-27T02:42:48 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-27T02:42:56 - Web UI: Now listening on IP: *, port: 8080
-(N) 2022-04-27T02:43:02 - '[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' reached the maximum ratio you set. Paused.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 001-055 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 309-337 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 196-223 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach - Movies 01-04 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 252-279 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 224-251 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 056-111 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Sub]' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 140-167 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 168-195 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 338-366 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 280-308 [BD 1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs] (Batch)' was removed from the transfer list.
-(N) 2022-04-27T02:54:02 - '[Judas] Bleach 112-139 [BD 1080p][HEVC x265 10bit][Dual-Audio][Eng-Subs]' was removed from the transfer list.
-(N) 2022-04-27T07:10:55 - 'Moon.Knight.S01E05.1080p.WEB.h264-KOGi[rartv]' added to download list.
-(N) 2022-04-27T07:37:02 - 'Moon.Knight.S01E05.1080p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
-(N) 2022-04-28T00:29:33 - qBittorrent v4.4.2 started
-(N) 2022-04-28T00:29:33 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-28T00:29:33 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-28T00:29:33 - Peer ID: -qB4420-
-(N) 2022-04-28T00:29:33 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-28T00:29:33 - DHT support [ON]
-(I) 2022-04-28T00:29:33 - Local Peer Discovery support [ON]
-(I) 2022-04-28T00:29:33 - PeX support [ON]
-(I) 2022-04-28T00:29:33 - Anonymous mode [OFF]
-(I) 2022-04-28T00:29:33 - Encryption support [ON]
-(I) 2022-04-28T00:29:33 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-28T00:29:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-28T00:29:33 - Using built-in Web UI.
-(W) 2022-04-28T00:29:33 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-28T00:29:33 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-28T00:29:33 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-28T00:29:33 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-28T00:29:33 - Successfully listening on IP: 172.18.0.4, port: TCP/13477
-(I) 2022-04-28T00:29:33 - Successfully listening on IP: 172.18.0.4, port: UDP/13477
-(N) 2022-04-28T00:29:33 - 'Moon.Knight.S01E05.1080p.WEB.h264-KOGi[rartv]' restored.
-(N) 2022-04-28T00:29:33 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-28T00:29:33 - Detected external IP: 219.88.232.215
-(N) 2022-04-28T00:29:36 - WebAPI login success. IP: ::ffff:172.18.0.2
-(N) 2022-04-28T00:29:38 - WebAPI login success. IP: ::ffff:172.18.0.5
-(N) 2022-04-28T00:31:39 - 'Moon.Knight.S01E05.1080p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
-(C) 2022-04-28T00:32:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-28T00:32:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-28T01:05:59 - qBittorrent v4.4.2 started
-(N) 2022-04-28T01:05:59 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-28T01:05:59 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-28T01:05:59 - Peer ID: -qB4420-
-(N) 2022-04-28T01:05:59 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-28T01:05:59 - DHT support [ON]
-(I) 2022-04-28T01:05:59 - Local Peer Discovery support [ON]
-(I) 2022-04-28T01:05:59 - PeX support [ON]
-(I) 2022-04-28T01:05:59 - Anonymous mode [OFF]
-(I) 2022-04-28T01:05:59 - Encryption support [ON]
-(I) 2022-04-28T01:05:59 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-28T01:06:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-28T01:06:00 - Using built-in Web UI.
-(W) 2022-04-28T01:06:00 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-28T01:06:00 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-28T01:06:00 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-28T01:06:00 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-28T01:06:00 - Successfully listening on IP: 172.18.0.5, port: TCP/13477
-(I) 2022-04-28T01:06:00 - Successfully listening on IP: 172.18.0.5, port: UDP/13477
-(N) 2022-04-28T01:06:00 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-28T01:06:00 - Detected external IP: 219.88.232.215
-(N) 2022-04-28T01:06:02 - WebAPI login success. IP: ::ffff:172.18.0.3
-(N) 2022-04-28T01:06:04 - WebAPI login success. IP: ::ffff:172.18.0.4
-(N) 2022-04-28T01:08:14 - WebAPI login success. IP: ::ffff:172.18.0.1
-(C) 2022-04-28T01:08:35 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-28T01:08:35 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(N) 2022-04-28T01:16:52 - qBittorrent v4.4.2 started
-(N) 2022-04-28T01:16:52 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-28T01:16:52 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-28T01:16:52 - Peer ID: -qB4420-
-(N) 2022-04-28T01:16:52 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-28T01:16:52 - DHT support [ON]
-(I) 2022-04-28T01:16:52 - Local Peer Discovery support [ON]
-(I) 2022-04-28T01:16:52 - PeX support [ON]
-(I) 2022-04-28T01:16:52 - Anonymous mode [OFF]
-(I) 2022-04-28T01:16:52 - Encryption support [ON]
-(I) 2022-04-28T01:16:52 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-28T01:16:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-28T01:16:53 - Using built-in Web UI.
-(W) 2022-04-28T01:16:53 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-28T01:16:53 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-28T01:16:53 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-28T01:16:53 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-28T01:16:53 - Successfully listening on IP: 172.18.0.5, port: TCP/13477
-(I) 2022-04-28T01:16:53 - Successfully listening on IP: 172.18.0.5, port: UDP/13477
-(N) 2022-04-28T01:16:53 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-28T01:16:53 - Detected external IP: 219.88.232.215
-(N) 2022-04-28T01:16:56 - WebAPI login success. IP: ::ffff:172.18.0.4
-(N) 2022-04-28T01:16:57 - WebAPI login success. IP: ::ffff:172.18.0.2
-(C) 2022-04-28T01:19:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-28T01:19:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(I) 2022-04-28T01:21:27 - UPnP / NAT-PMP support [OFF]
-(N) 2022-04-28T01:21:56 - qBittorrent v4.4.2 started
-(N) 2022-04-28T01:21:56 - Using config directory: /app/qBittorrent/config
-(I) 2022-04-28T01:21:56 - Trying to listen on: 0.0.0.0:13477,[::]:13477
-(N) 2022-04-28T01:21:56 - Peer ID: -qB4420-
-(N) 2022-04-28T01:21:56 - HTTP User-Agent is 'qBittorrent/4.4.2'
-(I) 2022-04-28T01:21:56 - DHT support [ON]
-(I) 2022-04-28T01:21:56 - Local Peer Discovery support [ON]
-(I) 2022-04-28T01:21:56 - PeX support [ON]
-(I) 2022-04-28T01:21:56 - Anonymous mode [OFF]
-(I) 2022-04-28T01:21:56 - Encryption support [ON]
-(I) 2022-04-28T01:21:56 - UPnP / NAT-PMP support [ON]
-(I) 2022-04-28T01:21:56 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
-(N) 2022-04-28T01:21:56 - Using built-in Web UI.
-(W) 2022-04-28T01:21:56 - Couldn't load Web UI translation for selected locale (C).
-(N) 2022-04-28T01:21:56 - Web UI: Now listening on IP: *, port: 8080
-(I) 2022-04-28T01:21:56 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
-(I) 2022-04-28T01:21:56 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
-(I) 2022-04-28T01:21:56 - Successfully listening on IP: 172.18.0.5, port: TCP/13477
-(I) 2022-04-28T01:21:56 - Successfully listening on IP: 172.18.0.5, port: UDP/13477
-(N) 2022-04-28T01:21:56 - Watching folder: "/data/Downloads/TorrentFiles/New"
-(I) 2022-04-28T01:21:56 - Detected external IP: 219.88.232.215
-(N) 2022-04-28T01:21:57 - WebAPI login success. IP: ::ffff:172.18.0.3
-(N) 2022-04-28T01:21:59 - WebAPI login success. IP: ::ffff:172.18.0.2
-(N) 2022-04-28T01:23:12 - WebAPI login success. IP: ::ffff:172.18.0.1
-(C) 2022-04-28T01:24:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(C) 2022-04-28T01:24:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
-(I) 2022-04-28T01:35:37 - UPnP / NAT-PMP support [OFF]
+(N) 2022-04-28T04:51:54 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-28T04:51:54 - DHT support [ON]
+(I) 2022-04-28T04:51:54 - Local Peer Discovery support [ON]
+(I) 2022-04-28T04:51:54 - PeX support [ON]
+(I) 2022-04-28T04:51:54 - Anonymous mode [OFF]
+(I) 2022-04-28T04:51:54 - Encryption support [ON]
+(I) 2022-04-28T04:51:54 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-28T04:51:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
+(N) 2022-04-28T04:51:54 - Using built-in Web UI.
+(W) 2022-04-28T04:51:54 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-04-28T04:51:55 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-04-28T04:51:55 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-04-28T04:51:55 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-04-28T04:51:55 - Successfully listening on IP: 172.18.0.2, port: TCP/13477
+(I) 2022-04-28T04:51:55 - Successfully listening on IP: 172.18.0.2, port: UDP/13477
+(N) 2022-04-28T04:51:55 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-04-28T04:51:55 - Detected external IP: 219.88.232.215
+(N) 2022-04-28T04:51:58 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2022-04-28T04:52:00 - WebAPI login success. IP: ::ffff:172.18.0.5
+(C) 2022-04-28T04:54:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-04-28T04:54:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-04-28T07:30:42 - 'Young.Justice.S04E20.720p.WEB.h264-KOGi[rartv]' added to download list.
+(N) 2022-04-28T07:34:12 - 'The Survivor (2021) [1080p] [WEBRip] [5.1] [YTS.MX]' added to download list.
+(N) 2022-04-28T07:42:24 - 'The Survivor (2021) [1080p] [WEBRip] [5.1] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T07:43:00 - 'The Survivor (2021) [1080p] [WEBRip] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T07:44:04 - 'Young.Justice.S04E20.720p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T12:32:10 - 'Young.Justice.S04E20.720p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T12:34:34 - 'Justice League Throne Of Atlantis (2015) [1080p] [BluRay] [5.1] [YTS.MX]' added to download list.
+(N) 2022-04-28T12:42:34 - 'Justice League Throne Of Atlantis (2015) [1080p] [BluRay] [5.1] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T12:43:35 - 'Justice League Throne Of Atlantis (2015) [1080p] [BluRay] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T18:36:19 - 'The.Seed.2021.1080p.WEBRip.x265-RARBG' added to download list.
+(N) 2022-04-28T18:36:33 - 'Host (2020) (1080p BluRay x265 HEVC 10bit AAC 2.0 Tigole)' added to download list.
+(N) 2022-04-28T18:36:38 - 'The Cellar (2022) [1080p] [WEBRip] [YTS.MX]' added to download list.
+(N) 2022-04-28T18:36:44 - 'They Live In The Grey (2022) [1080p] [WEBRip] [YTS.MX]' added to download list.
+(N) 2022-04-28T18:36:46 - 'The.Spine.of.Night.2021.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-04-28T18:36:51 - 'The Cleansing Hour (2019) [BluRay] [1080p] [YTS.LT]' added to download list.
+(N) 2022-04-28T18:36:53 - 'Superhost.2021.1080p.BluRay.x265-RARBG' added to download list.
+(N) 2022-04-28T18:36:58 - 'The.Boy.Behind.The.Door.2020.1080p.BluRay.H264.AAC-RARBG' added to download list.
+(N) 2022-04-28T18:43:04 - 'The Cellar (2022) [1080p] [WEBRip] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T18:44:14 - 'The Cellar (2022) [1080p] [WEBRip] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T18:44:14 - 'They Live In The Grey (2022) [1080p] [WEBRip] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T18:44:19 - 'They Live In The Grey (2022) [1080p] [WEBRip] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T18:52:54 - 'Host (2020) (1080p BluRay x265 HEVC 10bit AAC 2.0 Tigole)' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T18:53:15 - 'Host (2020) (1080p BluRay x265 HEVC 10bit AAC 2.0 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-04-28T19:40:34 - 'The Cleansing Hour (2019) [BluRay] [1080p] [YTS.LT]' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T19:41:21 - 'The Cleansing Hour (2019) [BluRay] [1080p] [YTS.LT]' was removed from the transfer list and hard disk.
+(N) 2022-04-28T19:44:54 - 'The.Boy.Behind.The.Door.2020.1080p.BluRay.H264.AAC-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T19:45:45 - 'The.Boy.Behind.The.Door.2020.1080p.BluRay.H264.AAC-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-04-28T19:59:24 - 'Superhost.2021.1080p.BluRay.x265-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-04-28T20:00:45 - 'Superhost.2021.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-04-29T00:18:40 - 'Outer.Range.S01E05.1080p.WEB.H264-GLHF[rartv]' added to download list.
+(N) 2022-04-29T00:18:42 - 'Outer.Range.S01E06.1080p.WEB.H264-GLHF[rartv]' added to download list.
+(N) 2022-04-29T00:39:34 - 'Outer.Range.S01E06.1080p.WEB.H264-GLHF[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-04-29T00:40:34 - 'Outer.Range.S01E06.1080p.WEB.H264-GLHF[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-04-29T00:54:54 - 'Outer.Range.S01E05.1080p.WEB.H264-GLHF[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-04-29T00:55:34 - 'Outer.Range.S01E05.1080p.WEB.H264-GLHF[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-04-29T03:44:36 - 'Ambulance (2022) 1080p 5.1 - 2.0 x264 Phun Psyz.mp4' added to download list.
+(N) 2022-04-29T03:48:34 - 'Ambulance (2022) 1080p 5.1 - 2.0 x264 Phun Psyz.mp4' reached the maximum ratio you set. Paused.
+(N) 2022-04-29T03:48:55 - 'Ambulance (2022) 1080p 5.1 - 2.0 x264 Phun Psyz.mp4' was removed from the transfer list and hard disk.
+(N) 2022-04-29T06:56:14 - 'The.Spine.of.Night.2021.1080p.BluRay.x265-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-04-29T06:56:28 - 'The.Spine.of.Night.2021.1080p.BluRay.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-04-29T11:49:44 - 'The.Seed.2021.1080p.WEBRip.x265-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-04-29T11:50:33 - 'The.Seed.2021.1080p.WEBRip.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-04-30T23:15:11 - qBittorrent v4.4.2 started
+(N) 2022-04-30T23:15:11 - Using config directory: /app/qBittorrent/config
+(I) 2022-04-30T23:15:11 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-04-30T23:15:12 - Peer ID: -qB4420-
+(N) 2022-04-30T23:15:12 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-04-30T23:15:12 - DHT support [ON]
+(I) 2022-04-30T23:15:12 - Local Peer Discovery support [ON]
+(I) 2022-04-30T23:15:12 - PeX support [ON]
+(I) 2022-04-30T23:15:12 - Anonymous mode [OFF]
+(I) 2022-04-30T23:15:12 - Encryption support [ON]
+(I) 2022-04-30T23:15:12 - UPnP / NAT-PMP support [ON]
+(I) 2022-04-30T23:15:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
+(N) 2022-04-30T23:15:12 - Using built-in Web UI.
+(W) 2022-04-30T23:15:12 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-04-30T23:15:12 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-04-30T23:15:12 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-04-30T23:15:12 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-04-30T23:15:12 - Successfully listening on IP: 172.18.0.4, port: TCP/13477
+(I) 2022-04-30T23:15:12 - Successfully listening on IP: 172.18.0.4, port: UDP/13477
+(N) 2022-04-30T23:15:12 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-04-30T23:15:12 - Detected external IP: 219.88.232.215
+(N) 2022-04-30T23:15:22 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2022-04-30T23:15:29 - WebAPI login success. IP: ::ffff:172.18.0.3
+(C) 2022-04-30T23:17:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-04-30T23:17:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-01T04:16:15 - 'Billy.the.Kid.S01E04.1080p.WEB.H264-GLHF[rartv]' added to download list.
+(N) 2022-05-01T04:16:17 - 'Billy.the.Kid.S01E02.720p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-01T04:48:41 - 'Billy.the.Kid.S01E02.720p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-01T04:49:08 - 'Billy.the.Kid.S01E02.720p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-01T04:50:31 - 'Billy.the.Kid.S01E04.1080p.WEB.H264-GLHF[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-01T04:50:38 - 'Billy.the.Kid.S01E04.1080p.WEB.H264-GLHF[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-01T10:08:45 - qBittorrent v4.4.2 started
+(N) 2022-05-01T10:08:45 - Using config directory: /app/qBittorrent/config
+(I) 2022-05-01T10:08:45 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-05-01T10:08:45 - Peer ID: -qB4420-
+(N) 2022-05-01T10:08:45 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-01T10:08:45 - DHT support [ON]
+(I) 2022-05-01T10:08:45 - Local Peer Discovery support [ON]
+(I) 2022-05-01T10:08:45 - PeX support [ON]
+(I) 2022-05-01T10:08:45 - Anonymous mode [OFF]
+(I) 2022-05-01T10:08:45 - Encryption support [ON]
+(I) 2022-05-01T10:08:45 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-01T10:08:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
+(N) 2022-05-01T10:08:45 - Using built-in Web UI.
+(W) 2022-05-01T10:08:45 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-01T10:08:45 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-01T10:08:45 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-05-01T10:08:45 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-05-01T10:08:45 - Successfully listening on IP: 172.18.0.2, port: TCP/13477
+(I) 2022-05-01T10:08:45 - Successfully listening on IP: 172.18.0.2, port: UDP/13477
+(N) 2022-05-01T10:08:45 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-05-01T10:08:45 - Detected external IP: 219.88.232.215
+(N) 2022-05-01T10:08:50 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2022-05-01T10:08:52 - WebAPI login success. IP: ::ffff:172.18.0.3
+(C) 2022-05-01T10:11:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-05-01T10:11:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-03T00:43:40 - 'The.Neighborhood.S04E19.720p.HDTV.x264-SYNCOPY[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-03T00:54:25 - 'The.Neighborhood.S04E19.720p.HDTV.x264-SYNCOPY[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-03T00:55:32 - 'The.Neighborhood.S04E19.720p.HDTV.x264-SYNCOPY[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-03T01:14:42 - 'Better.Call.Saul.S06E04.1080p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-03T01:40:25 - 'Better.Call.Saul.S06E04.1080p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-03T01:41:33 - 'Better.Call.Saul.S06E04.1080p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-03T18:41:56 - 'Sonic.the.Hedgehog.2.2022.1080p.WEBRip.AAC2.0.x264-SHITBOX' added to download list.
+(N) 2022-05-03T19:50:45 - 'Sonic.the.Hedgehog.2.2022.1080p.WEBRip.AAC2.0.x264-SHITBOX' reached the maximum ratio you set. Paused.
+(N) 2022-05-03T19:50:48 - 'Sonic.the.Hedgehog.2.2022.1080p.WEBRip.AAC2.0.x264-SHITBOX' was removed from the transfer list and hard disk.
+(N) 2022-05-04T00:15:05 - 'New.Amsterdam.2018.S04E18.720p.HDTV.x264-SYNCOPY[rartv]' added to download list.
+(N) 2022-05-04T00:19:45 - 'New.Amsterdam.2018.S04E18.720p.HDTV.x264-SYNCOPY[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-04T00:20:57 - 'New.Amsterdam.2018.S04E18.720p.HDTV.x264-SYNCOPY[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-04T07:13:50 - 'Moon.Knight.S01E06.1080p.WEB.h264-KOGi[rartv]' added to download list.
+(N) 2022-05-04T07:39:45 - 'Moon.Knight.S01E06.1080p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-04T07:40:41 - 'Moon.Knight.S01E06.1080p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-04T13:15:44 - 'Drag Me To Hell Unrated (2009) [1080p]' added to download list.
+(N) 2022-05-15T11:06:15 - qBittorrent v4.4.2 started
+(N) 2022-05-15T11:06:15 - Using config directory: /app/qBittorrent/config
+(I) 2022-05-15T11:06:15 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-05-15T11:06:15 - Peer ID: -qB4420-
+(N) 2022-05-15T11:06:15 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-15T11:06:15 - DHT support [ON]
+(I) 2022-05-15T11:06:15 - Local Peer Discovery support [ON]
+(I) 2022-05-15T11:06:15 - PeX support [ON]
+(I) 2022-05-15T11:06:15 - Anonymous mode [OFF]
+(I) 2022-05-15T11:06:15 - Encryption support [ON]
+(I) 2022-05-15T11:06:15 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-15T11:06:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Apr 1 00:19:19 2022.
+(N) 2022-05-15T11:06:16 - Using built-in Web UI.
+(W) 2022-05-15T11:06:16 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-15T11:06:16 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-15T11:06:16 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-05-15T11:06:16 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-05-15T11:06:16 - Successfully listening on IP: 172.18.0.3, port: TCP/13477
+(I) 2022-05-15T11:06:16 - Successfully listening on IP: 172.18.0.3, port: UDP/13477
+(N) 2022-05-15T11:06:16 - 'Drag Me To Hell Unrated (2009) [1080p]' restored.
+(I) 2022-05-15T11:06:16 - Detected external IP: 219.88.232.215
+(N) 2022-05-15T11:06:16 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-05-15T11:06:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 00:22:46 2022.
+(I) 2022-05-15T11:06:17 - Successfully updated IP geolocation database.
+(N) 2022-05-15T11:06:19 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2022-05-15T11:06:23 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2022-05-15T11:07:18 - 'Morbius (2022) [1080p] [WEBRip] [YTS.MX]' added to download list.
+(N) 2022-05-15T11:07:18 - 'Ted.K.2021.1080p.BluRay.H264.AAC-RARBG' added to download list.
+(N) 2022-05-15T11:07:24 - 'The Northman (2022) + Extras (1080p WEB-DL x265 HEVC 10bit EAC3 5.1 SAMPA)' added to download list.
+(C) 2022-05-15T11:08:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-05-15T11:08:51 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-15T11:08:53 - 'Kazaam (1996) [1080p] [BluRay] [5.1] [YTS.MX]' added to download list.
+(N) 2022-05-15T11:09:05 - 'Sideways (2004) 1080p BrRip x264 - YIFY' added to download list.
+(N) 2022-05-15T11:09:13 - 'Firestarter.2022.1080p.WEBRip.x265-RARBG' added to download list.
+(N) 2022-05-15T11:09:22 - 'The.Bad.Guys.2022.1080p.WEBRip.x265-RARBG' added to download list.
+(N) 2022-05-15T11:11:59 - 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]' added to download list.
+(N) 2022-05-15T11:12:02 - 'Outer.Range.S01E07.1080p.WEB.H264-GLHF[rartv]' added to download list.
+(N) 2022-05-15T11:12:09 - 'Better.Call.Saul.S06E05.Black.and.Blue.1080p.NF.WEBRip.DDP5.1.x264-NTb[rartv]' added to download list.
+(N) 2022-05-15T11:12:15 - 'Outer.Range.S01E08.1080p.WEB.H264-GLHF[TGx]' added to download list.
+(N) 2022-05-15T11:12:17 - 'Billy.The.Kid.2022.S01E03.720p.WEB.H264-GGEZ[rartv]' added to download list.
+(N) 2022-05-15T11:12:22 - 'The.Neighborhood.S04E20.720p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-15T11:13:02 - 'New.Amsterdam.2018.S04E19.Truth.Be.Told.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' added to download list.
+(N) 2022-05-15T11:13:58 - 'New.Amsterdam.2018.S04E20.720p.WEB.h264-GOSSIP[TGx]' added to download list.
+(N) 2022-05-15T11:14:15 - 'Drag Me To Hell Unrated (2009) [1080p]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:14:41 - 'Young.Justice.S04E22.1080p.WEB.h264-KOGi[rartv]' added to download list.
+(N) 2022-05-15T11:15:21 - 'Drag Me To Hell Unrated (2009) [1080p]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:16:55 - 'Morbius (2022) [1080p] [WEBRip] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:18:21 - 'Morbius (2022) [1080p] [WEBRip] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:26:25 - 'Ted.K.2021.1080p.BluRay.H264.AAC-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:27:22 - 'Ted.K.2021.1080p.BluRay.H264.AAC-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:31:45 - 'Firestarter.2022.1080p.WEBRip.x265-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:31:52 - 'Firestarter.2022.1080p.WEBRip.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:37:45 - 'The.Bad.Guys.2022.1080p.WEBRip.x265-RARBG' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:37:52 - 'The.Bad.Guys.2022.1080p.WEBRip.x265-RARBG' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:39:05 - 'The Northman (2022) + Extras (1080p WEB-DL x265 HEVC 10bit EAC3 5.1 SAMPA)' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:39:22 - 'The Northman (2022) + Extras (1080p WEB-DL x265 HEVC 10bit EAC3 5.1 SAMPA)' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:40:45 - 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:47:45 - 'Better.Call.Saul.S06E05.Black.and.Blue.1080p.NF.WEBRip.DDP5.1.x264-NTb[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:48:26 - 'Better.Call.Saul.S06E05.Black.and.Blue.1080p.NF.WEBRip.DDP5.1.x264-NTb[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:49:35 - 'Outer.Range.S01E07.1080p.WEB.H264-GLHF[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:50:06 - 'Outer.Range.S01E07.1080p.WEB.H264-GLHF[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:54:15 - 'Sideways (2004) 1080p BrRip x264 - YIFY' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:54:30 - 'Sideways (2004) 1080p BrRip x264 - YIFY' was removed from the transfer list and hard disk.
+(N) 2022-05-15T11:54:40 - 'Billy.The.Kid.2022.S01E06.1080p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-15T11:56:25 - 'Outer.Range.S01E08.1080p.WEB.H264-GLHF[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T11:57:26 - 'Outer.Range.S01E08.1080p.WEB.H264-GLHF[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T12:03:07 - 'Billy.The.Kid.2022.S01E03.720p.WEB.H264-GGEZ[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T12:03:15 - 'The.Neighborhood.S04E20.720p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T12:03:35 - 'Billy.The.Kid.2022.S01E03.720p.WEB.H264-GGEZ[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T12:03:35 - 'The.Neighborhood.S04E20.720p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T12:06:25 - 'New.Amsterdam.2018.S04E19.Truth.Be.Told.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T12:06:26 - 'New.Amsterdam.2018.S04E19.Truth.Be.Told.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T12:06:45 - 'Young.Justice.S04E22.1080p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T12:07:56 - 'Young.Justice.S04E22.1080p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T12:11:25 - 'Billy.The.Kid.2022.S01E06.1080p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T12:12:26 - 'Billy.The.Kid.2022.S01E06.1080p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T15:48:55 - 'New.Amsterdam.2018.S04E20.720p.WEB.h264-GOSSIP[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T15:49:40 - 'New.Amsterdam.2018.S04E20.720p.WEB.h264-GOSSIP[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-15T23:13:45 - 'Kazaam (1996) [1080p] [BluRay] [5.1] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-05-15T23:14:50 - 'Kazaam (1996) [1080p] [BluRay] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-05-16T02:15:32 - 'Operation.Mincemeat.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]' added to download list.
+(N) 2022-05-16T02:51:45 - 'Operation.Mincemeat.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-05-16T02:52:58 - 'Operation.Mincemeat.2022.1080p.WEB-DL.DD5.1.H.264-EVO[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-05-17T01:12:44 - 'better.call.saul.s06e06.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-17T01:22:45 - 'better.call.saul.s06e06.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-17T01:23:08 - 'better.call.saul.s06e06.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-17T03:47:49 - 'The.Neighborhood.S04E21.720p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-17T03:53:05 - 'The.Neighborhood.S04E21.720p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-17T03:53:43 - 'The.Neighborhood.S04E21.720p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-17T14:36:31 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' added to download list.
+(N) 2022-05-17T15:18:45 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' reached the maximum ratio you set. Paused.
+(N) 2022-05-17T15:19:56 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' was removed from the transfer list and hard disk.
+(N) 2022-05-18T04:37:08 - qBittorrent v4.4.2 started
+(N) 2022-05-18T04:37:08 - Using config directory: /app/qBittorrent/config
+(I) 2022-05-18T04:37:08 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-05-18T04:37:08 - Peer ID: -qB4420-
+(N) 2022-05-18T04:37:08 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-18T04:37:08 - DHT support [ON]
+(I) 2022-05-18T04:37:08 - Local Peer Discovery support [ON]
+(I) 2022-05-18T04:37:08 - PeX support [ON]
+(I) 2022-05-18T04:37:08 - Anonymous mode [OFF]
+(I) 2022-05-18T04:37:08 - Encryption support [ON]
+(I) 2022-05-18T04:37:08 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-18T04:37:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 00:22:46 2022.
+(N) 2022-05-18T04:37:09 - Using built-in Web UI.
+(W) 2022-05-18T04:37:09 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-18T04:37:09 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-18T04:37:09 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-05-18T04:37:09 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-05-18T04:37:09 - Successfully listening on IP: 172.18.0.4, port: TCP/13477
+(I) 2022-05-18T04:37:09 - Successfully listening on IP: 172.18.0.4, port: UDP/13477
+(N) 2022-05-18T04:37:09 - 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]' restored.
+(N) 2022-05-18T04:37:09 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-05-18T04:37:09 - Detected external IP: 219.88.232.215
+(C) 2022-05-18T04:37:09 - File sizes mismatch for torrent 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]'. Cannot proceed further.
+(N) 2022-05-18T04:37:11 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2022-05-18T04:37:13 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2022-05-18T04:37:52 - 'New.Amsterdam.2018.S04E21.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztv.re]' added to download list.
+(C) 2022-05-18T04:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-05-18T04:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-18T04:46:18 - 'New.Amsterdam.2018.S04E21.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-18T04:46:44 - 'New.Amsterdam.2018.S04E21.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-18T06:14:34 - qBittorrent v4.4.2 started
+(N) 2022-05-18T06:14:34 - Using config directory: /app/qBittorrent/config
+(I) 2022-05-18T06:14:34 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-05-18T06:14:34 - Peer ID: -qB4420-
+(N) 2022-05-18T06:14:34 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-18T06:14:34 - DHT support [ON]
+(I) 2022-05-18T06:14:34 - Local Peer Discovery support [ON]
+(I) 2022-05-18T06:14:34 - PeX support [ON]
+(I) 2022-05-18T06:14:34 - Anonymous mode [OFF]
+(I) 2022-05-18T06:14:34 - Encryption support [ON]
+(I) 2022-05-18T06:14:34 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-18T06:14:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 00:22:46 2022.
+(N) 2022-05-18T06:14:35 - Using built-in Web UI.
+(W) 2022-05-18T06:14:35 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-18T06:14:35 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-18T06:14:35 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-05-18T06:14:35 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-05-18T06:14:35 - Successfully listening on IP: 172.18.0.5, port: TCP/13477
+(I) 2022-05-18T06:14:35 - Successfully listening on IP: 172.18.0.5, port: UDP/13477
+(N) 2022-05-18T06:14:35 - 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]' restored.
+(N) 2022-05-18T06:14:35 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-05-18T06:14:35 - Detected external IP: 219.88.232.215
+(C) 2022-05-18T06:14:35 - File sizes mismatch for torrent 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]'. Cannot proceed further.
+(N) 2022-05-18T06:14:38 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2022-05-18T06:14:39 - WebAPI login success. IP: ::ffff:172.18.0.3
+(C) 2022-05-18T06:17:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-05-18T06:17:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-18T19:21:52 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2022-05-19T04:58:12 - 'Memory.2022.1080p.WEBRip.DD5.1.x264-NOGRP' added to download list.
+(N) 2022-05-19T05:47:24 - 'Memory.2022.1080p.WEBRip.DD5.1.x264-NOGRP' reached the maximum ratio you set. Paused.
+(N) 2022-05-19T05:47:36 - 'Memory.2022.1080p.WEBRip.DD5.1.x264-NOGRP' was removed from the transfer list and hard disk.
+(N) 2022-05-19T07:31:24 - 'Young.Justice.S04E23.720p.WEB.h264-KOGi[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-19T07:43:04 - 'Young.Justice.S04E23.720p.WEB.h264-KOGi[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-19T11:14:52 - 'Young.Justice.S04E23.720p.WEB.h264-KOGi[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-21T11:47:44 - 'Chip n Dale Rescue Rangers (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' added to download list.
+(N) 2022-05-21T11:55:14 - 'Chip n Dale Rescue Rangers (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' reached the maximum ratio you set. Paused.
+(N) 2022-05-21T11:56:38 - 'Chip n Dale Rescue Rangers (2022) [1080p] [WEBRip] [5.1] [YTS.MX]' was removed from the transfer list and hard disk.
+(N) 2022-05-22T04:11:06 - 'billy.the.kid.2022.s01e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-22T04:37:24 - 'billy.the.kid.2022.s01e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-22T04:37:58 - 'billy.the.kid.2022.s01e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-22T19:42:56 - 'The Lost City 2022 FullHD 1080p.H264 Ita Eng AC3 5.1 Sub Ita Eng realDMDJ iDN_CreW .mkv' added to download list.
+(N) 2022-05-22T20:07:24 - 'The Lost City 2022 FullHD 1080p.H264 Ita Eng AC3 5.1 Sub Ita Eng realDMDJ iDN_CreW .mkv' reached the maximum ratio you set. Paused.
+(N) 2022-05-22T20:08:13 - 'The Lost City 2022 FullHD 1080p.H264 Ita Eng AC3 5.1 Sub Ita Eng realDMDJ iDN_CreW .mkv' was removed from the transfer list and hard disk.
+(N) 2022-05-24T01:24:58 - 'better.call.saul.s06e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-24T01:30:14 - 'better.call.saul.s06e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-05-24T01:30:50 - 'better.call.saul.s06e07.720p.web.h264-cakes[eztv.re].mkv[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-05-24T03:44:33 - 'The.Neighborhood.S04E22.1080p.WEB.H264-CAKES[rartv]' added to download list.
+(N) 2022-05-24T03:50:54 - 'The.Neighborhood.S04E22.1080p.WEB.H264-CAKES[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-24T03:51:55 - 'The.Neighborhood.S04E22.1080p.WEB.H264-CAKES[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-25T04:33:25 - 'New.Amsterdam.2018.S04E22.Ill.Be.Your.Shelter.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' added to download list.
+(N) 2022-05-25T04:47:54 - 'New.Amsterdam.2018.S04E22.Ill.Be.Your.Shelter.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-25T04:48:17 - 'New.Amsterdam.2018.S04E22.Ill.Be.Your.Shelter.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-25T14:44:56 - 'Crouching Tiger Hidden Dragon (2000) x 800 (1080p) 5.1 -2.0 (Eng - Chi) x264 Phun Psyz.mp4' added to download list.
+(N) 2022-05-25T17:52:24 - 'Crouching Tiger Hidden Dragon (2000) x 800 (1080p) 5.1 -2.0 (Eng - Chi) x264 Phun Psyz.mp4' reached the maximum ratio you set. Paused.
+(N) 2022-05-25T17:52:33 - 'Crouching Tiger Hidden Dragon (2000) x 800 (1080p) 5.1 -2.0 (Eng - Chi) x264 Phun Psyz.mp4' was removed from the transfer list and hard disk.
+(N) 2022-05-26T07:27:17 - 'Young.Justice.S04E24.1080p.WEB.h264-KOGi[rartv]' added to download list.
+(N) 2022-05-26T07:54:54 - 'Young.Justice.S04E24.1080p.WEB.h264-KOGi[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-26T07:55:38 - 'Young.Justice.S04E24.1080p.WEB.h264-KOGi[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-27T20:46:26 - 'Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' added to download list.
+(W) 2022-05-27T20:46:28 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: admin
+(W) 2022-05-27T20:46:32 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.18.0.1, username: admin
+(N) 2022-05-27T20:46:33 - 'Obi-Wan.Kenobi.S01E02.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' added to download list.
+(N) 2022-05-27T20:47:11 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2022-05-27T20:49:41 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-27T20:50:16 - qBittorrent v4.4.2 started
+(N) 2022-05-27T20:50:16 - Using config directory: /app/qBittorrent/config
+(I) 2022-05-27T20:50:16 - Trying to listen on: 0.0.0.0:13477,[::]:13477
+(N) 2022-05-27T20:50:16 - Peer ID: -qB4420-
+(N) 2022-05-27T20:50:16 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-27T20:50:16 - DHT support [ON]
+(I) 2022-05-27T20:50:16 - Local Peer Discovery support [ON]
+(I) 2022-05-27T20:50:16 - PeX support [ON]
+(I) 2022-05-27T20:50:16 - Anonymous mode [OFF]
+(I) 2022-05-27T20:50:16 - Encryption support [ON]
+(I) 2022-05-27T20:50:16 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-27T20:50:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun May 1 00:22:46 2022.
+(N) 2022-05-27T20:50:17 - Using built-in Web UI.
+(W) 2022-05-27T20:50:17 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-27T20:50:17 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-27T20:50:17 - Successfully listening on IP: 127.0.0.1, port: TCP/13477
+(I) 2022-05-27T20:50:17 - Successfully listening on IP: 127.0.0.1, port: UDP/13477
+(I) 2022-05-27T20:50:17 - Successfully listening on IP: 172.18.0.3, port: TCP/13477
+(I) 2022-05-27T20:50:17 - Successfully listening on IP: 172.18.0.3, port: UDP/13477
+(N) 2022-05-27T20:50:17 - 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]' restored.
+(N) 2022-05-27T20:50:17 - 'Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' restored.
+(N) 2022-05-27T20:50:17 - 'Obi-Wan.Kenobi.S01E02.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' restored.
+(N) 2022-05-27T20:50:17 - Watching folder: "/data/Downloads/TorrentFiles/New"
+(I) 2022-05-27T20:50:17 - Detected external IP: 219.88.232.215
+(C) 2022-05-27T20:50:17 - File sizes mismatch for torrent 'Young.Justice.S04E21.720p.WEB.h264-KOGi[rarbg]'. Cannot proceed further.
+(N) 2022-05-27T20:50:19 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2022-05-27T20:50:21 - WebAPI login success. IP: ::ffff:172.18.0.2
+(W) 2022-05-27T20:51:14 - File error alert. Torrent: "Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]". File: "/data/Downloads/Complete/Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rarbg]/Obi-Wan.Kenobi.S01E01.Part.I.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb.mkv". Reason: Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rarbg] file_read (/data/Downloads/Complete/Obi-Wan.Kenobi.S01E01.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rarbg]/Obi-Wan.Kenobi.S01E01.Part.I.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb.mkv) error: End of file
+(C) 2022-05-27T20:52:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-05-27T20:52:52 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-05-27T20:59:26 - 'Obi-Wan.Kenobi.S01E02.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' reached the maximum ratio you set. Paused.
+(N) 2022-05-27T20:59:52 - 'Obi-Wan.Kenobi.S01E02.1080p.DSNP.WEBRip.DDP5.1.x264-NTb[rartv]' was removed from the transfer list and hard disk.
+(N) 2022-05-27T23:29:18 - WebAPI login success. IP: ::ffff:172.18.0.2

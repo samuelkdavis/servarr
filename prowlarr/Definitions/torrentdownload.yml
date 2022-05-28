@@ -8,13 +8,10 @@ encoding: UTF-8
 followredirect: true
 links:
   - https://www.torrentdownload.info/
-  - https://torrentdownload.unblockit.llc/
+  - https://torrentdownload.unblockit.blue/
   - https://torrentdownload.nocensor.sbs/
 legacylinks:
   - https://torrentdownload.unblocked.rest/
-  - https://torrentdownload.unblockit.dev/
-  - https://torrentdownload.unblockit.ltd/
-  - https://torrentdownload.unblockit.link/
   - https://torrentdownload.unblockit.buzz/
   - https://torrentdownload.unblocked.monster/
   - https://torrentdownload.unblockit.club/
@@ -32,6 +29,7 @@ legacylinks:
   - https://torrentdownload.unblockit.cam/
   - https://torrentdownload.nocensor.biz/
   - https://torrentdownload.unblockit.day/
+  - https://torrentdownload.unblockit.llc/
 
 caps:
   categorymappings:
@@ -123,8 +121,9 @@ login:
     path: /
 
 search:
+  # home page no longer has torrents. /latest would be ideal but has not categories. resorting to /top for keywordless searches.
   paths:
-    - path: "{{ if .Keywords }}search{{ re_replace .Config.sort \"_\" \"\" }}?q={{ .Keywords }}{{ else }}{{ end }}"
+    - path: "{{ if .Keywords }}search{{ re_replace .Config.sort \"_\" \"\" }}?q={{ .Keywords }}{{ else }}top{{ end }}"
 
   rows:
     selector: table.table2 > tbody > tr:has(span.smallish)

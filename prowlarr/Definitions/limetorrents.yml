@@ -8,8 +8,8 @@ encoding: UTF-8
 followredirect: true
 # changes to this indexer should also be made to limetorrentsclone
 links:
-  - https://www.limetorrents.pro/
-  - https://limetorrents.unblockit.llc/
+  - https://www.limetorrents.lol/
+  - https://limetorrents.unblockit.blue/
   - https://limetorrents.unblockninja.com/
   - https://limetorrents.nocensor.sbs/
 legacylinks:
@@ -34,6 +34,8 @@ legacylinks:
   - https://limetorrents.unblockit.cam/
   - https://limetorrents.nocensor.biz/
   - https://limetorrents.unblockit.day/
+  - https://www.limetorrents.pro/
+  - https://limetorrents.unblockit.llc/
 
 caps:
   categorymappings:
